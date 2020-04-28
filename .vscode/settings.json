@@ -1,0 +1,4 @@
+{
+    "python.pythonPath": "/opt/miniconda/envs/adal/bin/python",
+    "python.dataScience.jupyterServerURI": "http://127.0.0.1:8888/?token=f481b996e694135c02f6c4310c456cb9b265c51410d0a17f"
+}
