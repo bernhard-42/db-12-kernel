@@ -131,8 +131,6 @@ class DB12Kernel(MetaKernel):
 
             self._login()
 
-            self.log.debug("- Token: %s", self.token)
-
             self.command = RemoteCommand(
                 self.host, self.cluster, self.org, self.token, self.log, self.Print,
             )
