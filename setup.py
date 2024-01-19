@@ -9,7 +9,7 @@ setup(
     url="https://github.com/bernhard-42/db-12-kernel",
     author="Bernhard Walter",
     author_email="bernhard@databricks.com",
-    install_requires=["metakernel", "jedi", "jupyterlab==2.1", "databricks-cli", "adal", "pyyaml"],
+    install_requires=["metakernel", "jedi", "jupyterlab==3.6.7", "databricks-cli", "adal", "pyyaml"],
     packages=["db_12_kernel"],
     classifiers=[
         "Framework :: IPython",
